@@ -14,3 +14,4 @@
 * [2019](/the-books-i-have-read/2019.md)
 * [2020](/the-books-i-have-read/2020.md)
 * [2021](/the-books-i-have-read/2021.md)
+* [2022](/the-books-i-have-read/2022.md)
