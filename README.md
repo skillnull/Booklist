@@ -3,18 +3,18 @@
 </p>
 
 > 诺贝尔
-* [诺贝尔文学奖](/literature/Nobel-Prize-in-literature.md)
+* [诺贝尔文学奖](/Nobel/literature.md)
 
 > 文学类
-* [关于生活和人生的书单](/literature/booklist-about-life.md)
+* [关于生活和人生的书单](/Literature/life.md)
 
 > 技术类
-* [程序员](/technology/programmer.md)
+* [程序员](/Technology/programmer.md)
 
 > 我的阅读列表
-* [2018](/the-books-i-have-read/2018.md)
-* [2019](/the-books-i-have-read/2019.md)
-* [2020](/the-books-i-have-read/2020.md)
-* [2021](/the-books-i-have-read/2021.md)
-* [2022](/the-books-i-have-read/2022.md)
-* [2023](/the-books-i-have-read/2023.md)
+* [2018](/MyReadList/2018.md)
+* [2019](/MyReadList/2019.md)
+* [2020](/MyReadList/2020.md)
+* [2021](/MyReadList/2021.md)
+* [2022](/MyReadList/2022.md)
+* [2023](/MyReadList/2023.md)
