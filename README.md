@@ -18,3 +18,4 @@
 * [2021](/MyReadList/2021.md)
 * [2022](/MyReadList/2022.md)
 * [2023](/MyReadList/2023.md)
+* [2024](/MyReadList/2024.md)
